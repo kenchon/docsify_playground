@@ -1,8 +1,8 @@
-<!-- _navbar.md -->
+<!-- _sidebar.md -->
 
 * お知らせ
 
-* リリースノート
+* [リリースノート](/release-note)
   * [本体](/release-note/hontai)
   * [プラットフォーム](custom-navbar.md)
 
